@@ -12,4 +12,5 @@ Loan_prediction
 - chi_square test
 - labelencoding
 - train_test_split
-- 
+- iloc method to split data
+-
