@@ -7,4 +7,9 @@ Loan_prediction
 - test_data
 - importing libraries and data set
 - data processing
-- descrete variable imputaion and 
+- descrete variable imputation and fixing inconsistencies
+- continuour variable impuration and fixing inconsistencies
+- chi_square test
+- labelencoding
+- train_test_split
+- 
