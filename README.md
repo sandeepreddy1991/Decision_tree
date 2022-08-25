@@ -5,3 +5,6 @@ Loan_prediction
 - output_values
 - train_data
 - test_data
+- importing libraries and data set
+- data processing
+- descrete variable imputaion and 
