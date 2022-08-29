@@ -13,4 +13,6 @@ Loan_prediction
 - labelencoding
 - train_test_split
 - iloc method to split data
--
+- decisiontreeclassifier
+- train evaluation
+- test evaluation
